@@ -1,0 +1,14 @@
+imbalanced-learn==0.13.0
+networkx==3.4.2
+pypdb==2.4
+biopython==1.84
+bioplexpy==1.0.0
+gprofiler-official==1.0.0
+scikit-posthocs==0.11.2
+magic-impute
+scprep==1.2.3
+shap==0.46.0
+xgboost==2.1.3
+git+https://github.com/ChangSuBiostats/CS-CORE_python.git
+dca
+statannotations==0.7.1
