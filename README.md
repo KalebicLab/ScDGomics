@@ -1,4 +1,4 @@
-# scadd1ko project
+# ScDGomics project
 
 ### Description:
  
@@ -39,4 +39,6 @@ mmDG_bRG vs mmNcx_RG: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/s
 
 ### Intersections of genes 
 DEGs intersections: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_dge_intersection.ipynb?ref_type=heads)  
- 
+
+### Code author/maintainer:
+Developed and maintained by [Nikola Cokorac](https://github.com/cokoracfht) in the Kalebic group.
