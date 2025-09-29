@@ -2,7 +2,7 @@
 
 ### Description:
  
-This GitHub repository contains the code to reproduce the analysis presented in Aquilino, M., Cokorac, N.,  *et al.*, titled : **Radial glia morphotype diversity in hippocampal dentate gyrus implies their evolutionary ancient origin**.
+This GitHub repository contains the code to reproduce the analysis presented in Aquilino, M., Cokorac, N.,  *et al.*, titled : **Basal radial glia abundance and morphotype diversity in hippocampal dentate gyrus implies their evolutionary ancient origin**.
 
 ### Execution environments 
 
@@ -19,26 +19,26 @@ This repository relies on Docker containers for reproducible analysis.
 
 This section includes data pre-processing of the dataset, including the removal of doublets and QC filtering. 
 
-Link 1: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_preprocessing.ipynb?ref_type=heads)
+Link 1: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_preprocessing.ipynb)
 
-Link 2: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_preprocessing_2.ipynb?ref_type=heads)
+Link 2: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_preprocessing_2.ipynb)
 
 ### Clustering
 
 This section includes clustering and cluster annotation.
 
-Clustering: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_clustering.ipynb?ref_type=heads)  
+Clustering: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_clustering.ipynb)  
 
 ### DGE and GO analyses
 
 This section includes pseudo-bulk differential expression analyses for cluster comparisons of interest.
 
-hsNcx_bRG vs mmDG_bRG: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_degs_hsNcx_RG2_vs_mmDG_RG1.ipynb?ref_type=heads)  
-hsNcx_bRG vs mmNcx_RG: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_degs_hsNcx_RG2_vs_mmNcx_RG1.ipynb?ref_type=heads)  
-mmDG_bRG vs mmNcx_RG: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_degs_mmDG_RG1_vs_mmNcx_RG1.ipynb?ref_type=heads)   
+hsNcx_bRG vs mmDG_bRG: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_degs_hsNcx_RG2_vs_mmDG_RG1.ipynb)  
+hsNcx_bRG vs mmNcx_RG: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_degs_hsNcx_RG2_vs_mmNcx_RG1.ipynb)  
+mmDG_bRG vs mmNcx_RG: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_degs_mmDG_RG1_vs_mmNcx_RG1.ipynb)   
 
 ### Intersections of genes 
-DEGs intersections: [jupyter notebook](https://gitlab.fht.org/nikola.cokorac/scdgomics/-/blob/main/notebooks/scdgomics_dge_intersection.ipynb?ref_type=heads)  
+DEGs intersections: [jupyter notebook](https://github.com/KalebicLab/ScDGomics/blob/main/notebooks/scdgomics_dge_intersection.ipynb)  
 
 ### Code author/maintainer:
-Developed and maintained by [Nikola Cokorac](https://github.com/cokoracfht) in the Kalebic group.
+Developed and maintained by [Nikola Cokorac](https://github.com/cokoracfht) in the Kalebic group
